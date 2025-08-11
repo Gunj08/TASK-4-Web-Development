@@ -1,88 +1,68 @@
-# TASK-4-Web-Development
+# Task 4 - Full Project Implementation
 
-This repository contains **three mini web development projects** created as part of **Task 4**.  
-The projects are built using **HTML, CSS, and JavaScript** and demonstrate responsiveness, interactivity, and local data storage.
-
----
-
-## 📁 Projects Overview
-
-### 1️⃣ Personal Portfolio Website
-**Description:**  
-A multi-page responsive personal portfolio website with About, Projects, and Contact sections.
-
-**Features:**
-- Responsive design for desktop & mobile
-- Navigation menu
-- Simple contact form
-
-**Files:**
-- `index.html`
-- `projects.html`
-- `contact.html`
-- `style.css`
-- `script.js`
+## 📌 Overview
+This project is part of **Task 4** where we implemented three connected mini-projects using **HTML, CSS, JavaScript, and Bootstrap**.  
+All three pages are connected via a navigation bar for easy access.
 
 ---
 
-### 2️⃣ To-Do List App
-**Description:**  
-A simple to-do list application that stores tasks in the browser using **LocalStorage**.
-
-**Features:**
-- Add/Delete tasks
-- Persistent data using LocalStorage
-- Minimal and clean UI
-
-**Files:**
-- `index.html`
-- `style.css`
-- `script.js`
+## 📂 Project Structure
+task4-project/
+│── index.html # Portfolio Website (Home Page)
+│── todo.html # To-Do List App
+│── products.html # Product Listing Page
+│── style.css # Common styles for all pages
+│── README.md # Project Documentation
 
 ---
 
-### 3️⃣ Product Listing Page
-**Description:**  
-A product listing page with filtering and sorting functionality.
 
-**Features:**
-- Filter products by category
-- Sort by price or rating
-- Responsive layout
+## 🖥 Features
 
-**Files:**
-- `index.html`
-- `style.css`
-- `script.js`
+### **1. Portfolio Website (Home Page)**
+- Modern, responsive design using **Bootstrap**
+- Sections: **About**, **Projects**, **Contact**
+- Navbar links to **To-Do App** and **Product Listing**
 
----
+### **2. To-Do List App**
+- Add, delete, and view tasks
+- Data saved in **localStorage**
+- Responsive, clean UI
 
-## 🛠️ Installation & Usage
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/Gunj08/TASK-4-Web-Development.git
- 
- ---
-
-2. Open the project folder:
-
-   cd TASK-4-Web-Development
-   
----
-   
-3. Open each project:
-
-Go to the desired project folder (PortfolioWebsite, ToDoApp, ProductListing)
-
-Double-click index.html to open in your browser
+### **3. Product Listing Page**
+- Products displayed in card layout
+- Filter by **category**
+- Sort by **rating**
+- Responsive grid system
 
 ---
 
-📜 License
-This project is licensed under the MIT License - feel free to use, modify, and distribute.
+## 🛠 Technologies Used
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **JavaScript (ES6)**
+- **LocalStorage API**
 
 ---
 
-Author
-Gunjan Kumari
+## 🚀 How to Run the Project
+1. Download the project files or clone the repository.
+2. Open `index.html` in your browser to start.
+3. Navigate using the menu:
+   - **Portfolio Website** → Home Page
+   - **To-Do App** → Manage tasks
+   - **Product Listing** → View, filter, and sort products
+
+---
+
+## ✨ Future Improvements
+- Add dark mode option
+- Add animations for page transitions
+- Improve product data with images and descriptions
+
+---
+
+## 👩‍💻 Author
+Gunjan Kumari 
+BCA Student  
