@@ -62,9 +62,8 @@ A product listing page with filtering and sorting functionality.
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Gunj08/TASK-4-Web-Development.git
-
-
-   Open the project folder:
+ 
+ ---
 
 2. Open the project folder:
 
