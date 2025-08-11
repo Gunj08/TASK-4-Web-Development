@@ -69,7 +69,7 @@ A product listing page with filtering and sorting functionality.
 
    cd TASK-4-Web-Development
    
-   ---
+---
    
 3. Open each project:
 
